@@ -13,6 +13,7 @@ book:
 format:
   html:
     theme: cosmo
+  ankivalenz-html: default
   pdf:
     documentclass: scrreprt
 
