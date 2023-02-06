@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "ankivalenz-quarto-book"
+  author: "Harry Vangberg"
+  date: "now"
+  chapters:
+    - index.qmd
+    - front-back.qmd
+    - cloze.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

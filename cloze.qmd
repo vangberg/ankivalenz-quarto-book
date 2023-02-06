@@ -1,0 +1,3 @@
+# Cloze
+
+-   A {{c1::cloze}} deletion card

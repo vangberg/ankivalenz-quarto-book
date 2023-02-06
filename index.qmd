@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+This is an example of a [Quarto](https://quarto.org/) book that can be used with [Ankivalenz](https://github.com/vangberg/ankivalenz) to generate [Anki](https://apps.ankiweb.net/) cards.
