@@ -1,5 +1,6 @@
 {
     "deck_id": 1207238899,
     "deck_name": "quarto-ankivalenz-book-demo",
-    "input_path": "_book"
+    "input_path": "_book",
+    "input_ext": "ahtml"
 }
