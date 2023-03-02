@@ -26,3 +26,8 @@
 
 -   Display ?::\
     $$1 + 2 = 3$$
+
+## Image
+
+-   Question ?::\
+    ![](images/anki.png)
